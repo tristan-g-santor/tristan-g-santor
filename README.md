@@ -14,13 +14,14 @@
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- leetcoding forever
+- leetcoding forever and capstone!
 ```
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
 	- 𝙶𝚘 hiking in Mt St Helens!
    	- Becoming a Leetcode God
 - 🤔 𝙻𝚒𝚜𝚝s of current problems i have...
 	- Becoming a Leetcode God
+   	- Utilizing playwright for my security project
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 -wip

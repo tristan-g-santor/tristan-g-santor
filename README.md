@@ -8,7 +8,7 @@
 - 🖥  Someone who explores the world in the computer and outside the computer
 - 🏫 Student at University of Washington 
 - 🏐 I like to play volleyball!
-- I love hiking!
+- 🏔️ I love hiking!
 - 🇵🇭
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
